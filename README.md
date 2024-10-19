@@ -1,1 +1,1 @@
-Welcome to KMIT CloudComputing gihub!!
+Welcome to KMIT CloudComputing Gihub!!
