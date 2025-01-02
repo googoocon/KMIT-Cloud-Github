@@ -5,7 +5,7 @@
 ``` ``` ```이 점자 사이에 코드를 넣으면 됨
 
 ### [AWS Skills](https://hyunsuko.notion.site/AWS-Skills-b1f467992a784d1199b067e7da8df7d5)
-<a target="_blank">https://github.com/iamhansko/aws-bomb/releases/tag/v0.0.1-alpha</a>
+<a href="https://github.com/iamhansko/aws-bomb/releases/tag/v0.0.1-alpha "target="_blank"></a>
 #### [MongoDB](https://pycoding.tistory.com/entry/%EB%AA%BD%EA%B3%A0db-%EC%A0%95%EB%A7%90-%EC%9E%98-%EC%A0%95%EB%A6%AC%EB%90%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8)
 
 # AWS CLI CODE
