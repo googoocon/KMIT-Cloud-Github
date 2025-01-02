@@ -14,3 +14,28 @@ curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip
 unzip awscliv2.zip
 sudo ./aws/install
 ```
+### IaaS (Infrastructure as a Service)
+
+- 하드웨어 단계에서 가상화를 진행한 것
+
+> 인프라 : 도로, 지하철, 하천, 공항, 학교, 병원 등
+> 
+
+### PaaS (Platform as a Service)
+
+> 플랫폼(운영체제, 런타임) 영역까지 가상화
+> 
+
+### SaaS (Software as a Service)
+
+> 소프트웨어 영역까지 가상화
+드롭박스, 구글드라이브 등 클라우드 애플리케이션
+> 
+
+### Docker는 PaaS
+
+프로그램을 개발 및 운영, 실행할 수 있는 환경
+
+프로그램의 입장에서는 새로운 컴퓨터에서 실행되는 것 처럼 느낌.
+
+운영체제 단계에서 가상화함 (포장한 것)
