@@ -1,5 +1,5 @@
 # HpwnzxpezVXTENwzfoNzxafetyrRtesfm¡¡
-![kmit](https://github.com/user-attachments/assets/e08dceba-de44-428d-96c8-405271b5e56a)
+![kmit](https://github.com/user-attachments/assets/e34335a1-257e-49a8-9f86-1baaf15ba39f)
 
 # 코드 블럭 쓰는법
 ``` ``` ```이 점자 사이에 코드를 넣으면 됨
